@@ -5,29 +5,54 @@
 # @File   : parse.py
 
 from os import path
-import openpyxl
+import panda
+import wcsv
+import datadump
+import re
 
-MAX_ROW = 272
-MAX_COL = 10
+filename = path.dirname(path.abspath(__file__)) + '/product-info.csv'
 
-filename = path.dirname(path.abspath(__file__)) + '/product-info.xlsx'
+data = panda.get_file_data(filename, 'csv')
+skus = panda.get_all_sku(filename, 'csv')
 
-inwb = openpyxl.load_workbook(filename)
-sheet_names = inwb.get_sheet_names()
+db_data = datadump.get_product()
 
-ws = inwb.get_sheet_by_name(sheet_names[0])
-rows = ws.max_row
-cols = ws.max_column
+product_skus = []
+for i in db_data:
+    product_skus.append(i[0])
+
+not_contain_sku = []
+for i in skus:
+    if i not in product_skus:
+        print(i)
+        not_contain_sku.append(i)
 
 products = []
-for r in range(1, MAX_ROW + 1):
-    product = []
-    for c in range(1, MAX_COL + 1):
-        product.append(ws.cell(r,c).value)
-    if r == 1:
-        continue
-    products.append(product)
+no_exists_products = []
+for i in data:
+    # re.sub(pattern, '127.0.0.1', url)
+    # pattern = re.compile(r'(?<![\.\d])(?:\d{1,3}\.){3}\d{1,3}(?![\.\d])')
+    skus = list(map(lambda x:x.strip(), i[1:4]))
 
-print(products[0])
+    prices = list(map(lambda x:x.replace('$', '').replace(',', '').strip(), i[4:7]))
 
-# print(ws.max_row, ws.max_column)
+    for k in range(0,len(skus)):
+        prod = {
+                'sku': skus[k],
+                'price': prices[k]
+            }
+        if skus[k] in not_contain_sku:
+            no_exists_products.append(prod)
+        else:
+            products.append(prod)
+
+
+header = ['sku', 'price']
+if len(products) > 0:
+    wcsv.data_write(header, products, 'product')
+
+if len(no_exists_products) > 0:
+    wcsv.data_write(header, no_exists_products, 'product-not-exists')
+
+# print(products)
+# wcsv.data_write(header, products, 'product-in-sku')
