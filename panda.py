@@ -6,9 +6,6 @@
 from os import path
 import numpy as np
 import pandas as pd
-import pprint
-import product
-import wcsv
 
 
 def get_file_data(filename, type='excel'):
@@ -26,7 +23,7 @@ def get_file_data(filename, type='excel'):
             continue
         row_data = df.ix[i].to_list()
         item = [k for k in row_data if k not in ['', ' ', 'nan']]
-        if len(item) <= 2:
+        if len(item) < 2:
             continue
         items.append(item)
     return items

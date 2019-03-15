@@ -1,0 +1,633 @@
+sku,p_sku,p_name
+22624,Config114,Malibu MSP2
+22739,Config27,Baja 302
+22740,Config27,Baja 302
+22741,Config27,Baja 302
+22748,Config28,Baja Islander 2007
+22749,Config28,Baja Islander 2007
+22750,Config28,Baja Islander 2007
+22755,Config2,Baja Islander 240
+22756,Config2,Baja Islander 240
+22758,Config3,Bayliner 205 BR
+22759,Config3,Bayliner 205 BR
+22761,Config29,Bayliner 23 Classic
+22762,Config29,Bayliner 23 Classic
+22764,Config30,Bayliner 246
+22765,Config30,Bayliner 246
+22767,Config31,Bayliner Avanti 3255
+22768,Config31,Bayliner Avanti 3255
+22772,Config32,Bluewater Escape
+22773,Config32,Bluewater Escape
+22774,Config32,Bluewater Escape
+22775,Config4,Calabria
+22776,Config4,Calabria
+22778,Config33,Calabria V2
+22779,Config33,Calabria V2
+22780,Config33,Calabria V2
+22781,Config34,Caravelle
+22782,Config34,Caravelle
+22783,Config34,Caravelle
+22785,Config35,Celebrity 240
+22786,Config35,Celebrity 240
+22787,Config35,Celebrity 240
+22789,Config36,Centurion SP
+22790,Config36,Centurion SP
+22791,Config36,Centurion SP
+22792,Config37,Centurion SV 230
+22793,Config37,Centurion SV 230
+22794,Config37,Centurion SV 230
+22795,Config38,Centurion Trojan 400 Express
+22796,Config38,Centurion Trojan 400 Express
+22797,Config38,Centurion Trojan 400 Express
+22798,Config39,Centurion Wave
+22799,Config39,Centurion Wave
+22800,Config39,Centurion Wave
+22801,Config87,Falcon V
+22802,Config87,Falcon V
+22803,Config87,Falcon V
+22804,Config86,Elite V - 1998
+22805,Config86,Elite V - 1998
+22806,Config86,Elite V - 1998
+22807,Config214,Tsunami
+22808,Config214,Tsunami
+22809,Config214,Tsunami
+22810,Config40,Chaparral 180 SSI SPP 2005
+22811,Config40,Chaparral 180 SSI SPP 2005
+22812,Config40,Chaparral 180 SSI SPP 2005
+22822,Config43,Chaparral 210 SSI
+22823,Config43,Chaparral 210 SSI
+22824,Config43,Chaparral 210 SSI
+22825,Config44,Chaparral 220 SSI
+22826,Config44,Chaparral 220 SSI
+22827,Config44,Chaparral 220 SSI
+22828,Config5,Chaparral 186 SSI & 190SSI
+22832,Config5,Chaparral 186 SSI & 190SSI
+22837,Config41,Chaparral 196 SSI & 200 SSI
+22838,Config41,Chaparral 196 SSI & 200 SSI
+22839,Config41,Chaparral 196 SSI & 200 SSI
+22840,Config42,Chaparral 200 SSI & 204 SSI
+22841,Config42,Chaparral 200 SSI & 204 SSI
+22842,Config42,Chaparral 200 SSI & 204 SSI
+22846,Config21,"""Chaparral 204SSI, 200 SSI & 204 SSI"""
+22847,Config21,"""Chaparral 204SSI, 200 SSI & 204 SSI"""
+22848,Config21,"""Chaparral 204SSI, 200 SSI & 204 SSI"""
+22849,Config22,"""Chaparral 220 SSI, 230 SSI, 235 SSI & 246 SSI"""
+22850,Config22,"""Chaparral 220 SSI, 230 SSI, 235 SSI & 246 SSI"""
+22851,Config22,"""Chaparral 220 SSI, 230 SSI, 235 SSI & 246 SSI"""
+22861,Config45,Chaparral 230 SSI
+22862,Config45,Chaparral 230 SSI
+22863,Config45,Chaparral 230 SSI
+22864,Config46,Chaparral 232 & 234 Sunesta
+22865,Config46,Chaparral 232 & 234 Sunesta
+22866,Config46,Chaparral 232 & 234 Sunesta
+22870,Config47,Chaparral 236 SSI
+22871,Config47,Chaparral 236 SSI
+22872,Config47,Chaparral 236 SSI
+22873,Config48,Chaparral 236 SSX
+22874,Config48,Chaparral 236 SSX
+22875,Config48,Chaparral 236 SSX
+22876,Config49,Chaparral 240 Signature
+22877,Config49,Chaparral 240 Signature
+22878,Config49,Chaparral 240 Signature
+22879,Config50,Chaparral 244
+22880,Config50,Chaparral 244
+22881,Config50,Chaparral 244
+22885,Config51,Chaparral 246
+22886,Config51,Chaparral 246
+22887,Config51,Chaparral 246
+22888,Config52,Chaparral 256 SSI
+22889,Config52,Chaparral 256 SSI
+22890,Config52,Chaparral 256 SSI
+22891,Config53,Chaparral 270 & 276 Signature
+22892,Config53,Chaparral 270 & 276 Signature
+22893,Config53,Chaparral 270 & 276 Signature
+22897,Config54,Chaparral 274 Sunesta
+22898,Config54,Chaparral 274 Sunesta
+22899,Config54,Chaparral 274 Sunesta
+22900,Config55,Chaparral 28 SS
+22901,Config55,Chaparral 28 SS
+22902,Config55,Chaparral 28 SS
+22903,Config56,Chaparral 280 SSI
+22904,Config56,Chaparral 280 SSI
+22905,Config56,Chaparral 280 SSI
+22906,Config57,Chaparral 300 Signature
+22907,Config57,Chaparral 300 Signature
+22908,Config57,Chaparral 300 Signature
+22909,Config58,Chaparral 310 Signature
+22910,Config58,Chaparral 310 Signature
+22911,Config58,Chaparral 310 Signature
+22912,Config59,Chris Craft Crowne 32
+22913,Config59,Chris Craft Crowne 32
+22914,Config59,Chris Craft Crowne 32
+22915,Config60,Chris Craft Crowne 33
+22916,Config60,Chris Craft Crowne 33
+22917,Config60,Chris Craft Crowne 33
+22918,Config61,Chris Craft Scorpion 210
+22919,Config61,Chris Craft Scorpion 210
+22920,Config61,Chris Craft Scorpion 210
+22921,Config62,Cobalt 200
+22922,Config62,Cobalt 200
+22923,Config62,Cobalt 200
+22924,Config23,"""Cobalt 200/220 - 2004, 2005"""
+22925,Config23,"""Cobalt 200/220 - 2004, 2005"""
+22926,Config23,"""Cobalt 200/220 - 2004, 2005"""
+22930,Config63,Cobalt 220
+22931,Config63,Cobalt 220
+22932,Config63,Cobalt 220
+22933,Config64,Cobalt 220 - 1996
+22934,Config64,Cobalt 220 - 1996
+22935,Config64,Cobalt 220 - 1996
+22936,Config65,Cobalt 232
+22937,Config65,Cobalt 232
+22938,Config65,Cobalt 232
+22939,Config66,Cobalt 232 - 2008
+22941,Config66,Cobalt 232 - 2008
+22942,Config66,Cobalt 232 - 2008
+22943,Config67,Cobalt 233
+22944,Config67,Cobalt 233
+22945,Config67,Cobalt 233
+22946,Config68,Cobalt 240
+22947,Config68,Cobalt 240
+22948,Config68,Cobalt 240
+22949,Config69,Cobalt 246
+22950,Config69,Cobalt 246
+22951,Config69,Cobalt 246
+22952,Config70,Cobalt 25 LS
+22953,Config70,Cobalt 25 LS
+22954,Config70,Cobalt 25 LS
+22955,Config71,Cobalt 25 LS ESP
+22956,Config71,Cobalt 25 LS ESP
+22957,Config71,Cobalt 25 LS ESP
+22958,Config72,Cobalt 250 BR
+22959,Config72,Cobalt 250 BR
+22960,Config72,Cobalt 250 BR
+22961,Config73,Cobalt 252
+22962,Config73,Cobalt 252
+22963,Config73,Cobalt 252
+22964,Config74,Cobalt 262
+22965,Config74,Cobalt 262
+22966,Config74,Cobalt 262
+22967,Config75,Cobalt 292
+22968,Config75,Cobalt 292
+22969,Config75,Cobalt 292
+22970,Config76,Cobalt 293
+22971,Config76,Cobalt 293
+22972,Config76,Cobalt 293
+22973,Config77,Crownline 216 Razor
+22974,Config77,Crownline 216 Razor
+22975,Config77,Crownline 216 Razor
+22976,Config78,Crownline 23 SS LPX
+22977,Config78,Crownline 23 SS LPX
+22978,Config78,Crownline 23 SS LPX
+22979,Config79,Crownline 230 EX
+22980,Config79,Crownline 230 EX
+22981,Config79,Crownline 230 EX
+22982,Config80,Crownline 230 LS
+22983,Config80,Crownline 230 LS
+22984,Config80,Crownline 230 LS
+22985,Config81,Crownline 235 CCR
+22986,Config81,Crownline 235 CCR
+22987,Config81,Crownline 235 CCR
+22988,Config24,"""Crownline Add-on Platform 225LPX, 260 EX, 220EX, 240LS"""
+22989,Config24,"""Crownline Add-on Platform 225LPX, 260 EX, 220EX, 240LS"""
+22990,Config24,"""Crownline Add-on Platform 225LPX, 260 EX, 220EX, 240LS"""
+23000,Config25,"""Crownline Integrated Platform 225, 260 EX, 220EX, 240LS"""
+23001,Config25,"""Crownline Integrated Platform 225, 260 EX, 220EX, 240LS"""
+23002,Config25,"""Crownline Integrated Platform 225, 260 EX, 220EX, 240LS"""
+23010,Config82,Cruisers Yachts Aria 3120
+23011,Config82,Cruisers Yachts Aria 3120
+23012,Config82,Cruisers Yachts Aria 3120
+23013,Config83,Donzi 35 ZR
+23014,Config83,Donzi 35 ZR
+23015,Config83,Donzi 35 ZR
+23016,Config84,Donzi ZX 33
+23017,Config84,Donzi ZX 33
+23018,Config84,Donzi ZX 33
+23020,Config85,Ebbtide Campione 210
+23021,Config85,Ebbtide Campione 210
+23022,Config85,Ebbtide Campione 210
+23023,Config88,Four Winns 268 Vista Cruiser
+23024,Config88,Four Winns 268 Vista Cruiser
+23025,Config88,Four Winns 268 Vista Cruiser
+23026,Config89,Four Winns 274
+23027,Config89,Four Winns 274
+23028,Config89,Four Winns 274
+23029,Config90,Four Winns 298 Vista
+23030,Config90,Four Winns 298 Vista
+23031,Config90,Four Winns 298 Vista
+23032,Config91,Four Winns 298 Vista - Swim Platform & Cockpit
+23033,Config91,Four Winns 298 Vista - Swim Platform & Cockpit
+23034,Config91,Four Winns 298 Vista - Swim Platform & Cockpit
+23035,Config92,Four Winns 328 Vista
+23036,Config92,Four Winns 328 Vista
+23037,Config92,Four Winns 328 Vista
+23038,Config93,Four Winns H200
+23039,Config93,Four Winns H200
+23040,Config93,Four Winns H200
+23041,Config94,Four Winns H220
+23042,Config94,Four Winns H220
+23043,Config94,Four Winns H220
+23044,Config95,Four Winns H260
+23045,Config95,Four Winns H260
+23046,Config95,Four Winns H260
+23047,Config96,Four Winns Horizon 200
+23048,Config96,Four Winns Horizon 200
+23049,Config96,Four Winns Horizon 200
+23050,Config97,Four Winns Horizon 200 - 2005
+23051,Config97,Four Winns Horizon 200 - 2005
+23052,Config97,Four Winns Horizon 200 - 2005
+23053,Config98,Four Winns Horizon 200 SS
+23054,Config98,Four Winns Horizon 200 SS
+23055,Config98,Four Winns Horizon 200 SS
+23056,Config99,Gekko 3 Piece
+23057,Config99,Gekko 3 Piece
+23058,Config99,Gekko 3 Piece
+23059,Config100,Gekko Bazooka
+23060,Config100,Gekko Bazooka
+23061,Config100,Gekko Bazooka
+23062,Config101,Hunter
+23063,Config101,Hunter
+23064,Config101,Hunter
+23066,Config102,Larson 228 LXI
+23067,Config102,Larson 228 LXI
+23068,Config102,Larson 228 LXI
+23069,Config103,Larson Cabrio - 1991
+23070,Config103,Larson Cabrio - 1991
+23071,Config103,Larson Cabrio - 1991
+23072,Config104,Larson Cabrio 290 2005
+23073,Config104,Larson Cabrio 290 2005
+23074,Config104,Larson Cabrio 290 2005
+23075,Config105,Larson Cabrio 350
+23076,Config105,Larson Cabrio 350
+23077,Config105,Larson Cabrio 350
+23078,Config110,Malibu Axis
+23079,Config110,Malibu Axis
+23080,Config110,Malibu Axis
+23081,Config111,Malibu Corvette
+23082,Config111,Malibu Corvette
+23083,Config111,Malibu Corvette
+23084,Config112,Malibu MSP1
+23085,Config112,Malibu MSP1
+23086,Config112,Malibu MSP1
+23087,Config108,Malibu 23 LSV
+23088,Config108,Malibu 23 LSV
+23089,Config108,Malibu 23 LSV
+23090,Config113,Malibu MSP1 With Hatch Cut Out
+23091,Config113,Malibu MSP1 With Hatch Cut Out
+23092,Config113,Malibu MSP1 With Hatch Cut Out
+23097,Config114,Malibu MSP2
+23098,Config114,Malibu MSP2
+23099,Config115,Malibu MSP2 With Hatch Cut Out
+23100,Config115,Malibu MSP2 With Hatch Cut Out
+23101,Config115,Malibu MSP2 With Hatch Cut Out
+23102,Config116,Malibu MSP4
+23103,Config116,Malibu MSP4
+23104,Config116,Malibu MSP4
+23105,Config117,Malibu MSP4 With Hatch Cut Out
+23106,Config117,Malibu MSP4 With Hatch Cut Out
+23107,Config117,Malibu MSP4 With Hatch Cut Out
+23108,Config118,Malibu MSP5
+23109,Config118,Malibu MSP5
+23110,Config118,Malibu MSP5
+23111,Config119,Malibu MSP5 With Hatch Cut Out
+23112,Config119,Malibu MSP5 With Hatch Cut Out
+23113,Config119,Malibu MSP5 With Hatch Cut Out
+23117,Config120,Malibu Response LXI - 2004
+23118,Config120,Malibu Response LXI - 2004
+23119,Config120,Malibu Response LXI - 2004
+23123,Config107,Malibu 22 MXZ - 2014
+23124,Config107,Malibu 22 MXZ - 2014
+23125,Config107,Malibu 22 MXZ - 2014
+23126,Config106,Malibu 21 VLX- 2014
+23127,Config106,Malibu 21 VLX- 2014
+23128,Config106,Malibu 21 VLX- 2014
+23129,Config109,Malibu 23 LSV - 2005
+23130,Config109,Malibu 23 LSV - 2005
+23131,Config109,Malibu 23 LSV - 2005
+23132,Config123,Malibu Wakesetter- 2006
+23133,Config123,Malibu Wakesetter- 2006
+23134,Config123,Malibu Wakesetter- 2006
+23135,Config124,Malibu Wakesetter VLX
+23136,Config124,Malibu Wakesetter VLX
+23137,Config124,Malibu Wakesetter VLX
+23142,Config7,Malibu 22 MXE - 2013
+23143,Config7,Malibu 22 MXE - 2013
+23145,Config13,Moomba - 1pc - 66 3/8 x 24 5/16
+23146,Config13,Moomba - 1pc - 66 3/8 x 24 5/16
+23147,Config122,Malibu Sunsetter LXI
+23148,Config122,Malibu Sunsetter LXI
+23149,Config122,Malibu Sunsetter LXI
+23150,Config14,Moomba - 1pc - 68 5/8 x 25
+23154,Config125,MasterCraft 190
+23155,Config125,MasterCraft 190
+23156,Config125,MasterCraft 190
+23157,Config126,MasterCraft 197 Prostar
+23158,Config126,MasterCraft 197 Prostar
+23159,Config126,MasterCraft 197 Prostar
+23160,Config127,MasterCraft 205
+23161,Config127,MasterCraft 205
+23162,Config127,MasterCraft 205
+23172,Config1,"""MasterCraft 245, X30 & X2"""
+23173,Config128,MasterCraft 255
+23174,Config128,MasterCraft 255
+23175,Config128,MasterCraft 255
+23176,Config130,MasterCraft Mari Star Sport
+23177,Config130,MasterCraft Mari Star Sport
+23178,Config130,MasterCraft Mari Star Sport
+23180,Config16,Regal 2900 LSR
+23190,Config12,MasterCraft X-STAR
+23191,Config12,MasterCraft X-STAR
+23192,Config137,MasterCraft X-STAR 2000
+23193,Config137,MasterCraft X-STAR 2000
+23194,Config137,MasterCraft X-STAR 2000
+23195,Config139,MasterCraft X-STAR 2005-2006
+23196,Config139,MasterCraft X-STAR 2005-2006
+23197,Config139,MasterCraft X-STAR 2005-2006
+23198,Config140,MasterCraft X-STAR 2007
+23199,Config140,MasterCraft X-STAR 2007
+23200,Config140,MasterCraft X-STAR 2007
+23201,Config136,MasterCraft X-46 2014
+23202,Config136,MasterCraft X-46 2014
+23203,Config136,MasterCraft X-46 2014
+23204,Config142,MasterCraft X-Star 2014
+23205,Config142,MasterCraft X-Star 2014
+23206,Config142,MasterCraft X-Star 2014
+23207,Config135,MasterCraft X-45 2006
+23208,Config135,MasterCraft X-45 2006
+23209,Config135,MasterCraft X-45 2006
+23210,Config8,MasterCraft 190 Pro Star - 1994
+23211,Config8,MasterCraft 190 Pro Star - 1994
+23213,Config134,MasterCraft X-35 - 2008
+23214,Config134,MasterCraft X-35 - 2008
+23215,Config134,MasterCraft X-35 - 2008
+23216,Config132,MasterCraft X-2 2008
+23217,Config132,MasterCraft X-2 2008
+23218,Config132,MasterCraft X-2 2008
+23219,Config131,MasterCraft X-1 2008
+23222,Config131,MasterCraft X-1 2008
+23223,Config131,MasterCraft X-1 2008
+23224,Config133,MasterCraft X-25 2011
+23225,Config133,MasterCraft X-25 2011
+23226,Config133,MasterCraft X-25 2011
+23227,Config141,MasterCraft X-Star 2008
+23228,Config141,MasterCraft X-Star 2008
+23229,Config141,MasterCraft X-Star 2008
+23230,Config138,MasterCraft X-Star 2004
+23231,Config138,MasterCraft X-Star 2004
+23232,Config138,MasterCraft X-Star 2004
+23233,Config129,MasterCraft 280 STS 2005
+23234,Config129,MasterCraft 280 STS 2005
+23235,Config129,MasterCraft 280 STS 2005
+23236,Config143,MasterCraftX-14 2007
+23237,Config143,MasterCraftX-14 2007
+23238,Config143,MasterCraftX-14 2007
+23239,Config144,MB Sports
+23240,Config144,MB Sports
+23241,Config144,MB Sports
+23242,Config145,MB Sports F23 Tom Cat
+23243,Config145,MB Sports F23 Tom Cat
+23244,Config145,MB Sports F23 Tom Cat
+23248,Config14,Moomba - 1pc - 68 5/8 x 25
+23251,Config121,Malibu Sunscape LSV 2005
+23252,Config121,Malibu Sunscape LSV 2005
+23253,Config121,Malibu Sunscape LSV 2005
+23254,Config146,Moomba - 3pc
+23255,Config146,Moomba - 3pc
+23256,Config146,Moomba - 3pc
+23257,Config147,Moomba Mobius LSV - 1pc - 69 3/16 x 23 1/8
+23258,Config147,Moomba Mobius LSV - 1pc - 69 3/16 x 23 1/8
+23259,Config147,Moomba Mobius LSV - 1pc - 69 3/16 x 23 1/8
+23260,Config148,Moomba Outback 2001
+23261,Config148,Moomba Outback 2001
+23262,Config148,Moomba Outback 2001
+23264,Config9,MasterCraft 214
+23265,Config9,MasterCraft 214
+23266,Config10,MasterCraft 225 VRS
+23267,Config10,MasterCraft 225 VRS
+23269,Config1,"""MasterCraft 245, X30 & X2"""
+23270,Config15,Pure Sport
+23271,Config15,Pure Sport
+23272,Config149,Regal 2200 Bowrider
+23273,Config149,Regal 2200 Bowrider
+23274,Config149,Regal 2200 Bowrider
+23275,Config150,Regal 2465 Commodore
+23276,Config150,Regal 2465 Commodore
+23277,Config150,Regal 2465 Commodore
+23281,Config17,Reinell 180
+23282,Config17,Reinell 180
+23284,Config11,MasterCraft X-30
+23285,Config11,MasterCraft X-30
+23287,Config151,Reinell 246 LSE
+23288,Config151,Reinell 246 LSE
+23289,Config151,Reinell 246 LSE
+23290,Config152,Rinker 232 2000-2002
+23291,Config152,Rinker 232 2000-2002
+23292,Config152,Rinker 232 2000-2002
+23293,Config153,Rinker 248 2009
+23295,Config153,Rinker 248 2009
+23296,Config153,Rinker 248 2009
+23297,Config154,Rinker 250 Fiesta Vee
+23298,Config154,Rinker 250 Fiesta Vee
+23299,Config154,Rinker 250 Fiesta Vee
+23300,Config155,Rinker 250 Fiesta Vee 2004
+23301,Config155,Rinker 250 Fiesta Vee 2004
+23302,Config155,Rinker 250 Fiesta Vee 2004
+23303,Config156,Rinker Captiva 212 R1
+23304,Config156,Rinker Captiva 212 R1
+23305,Config156,Rinker Captiva 212 R1
+23306,Config157,Rinker Captiva 226 BR
+23307,Config157,Rinker Captiva 226 BR
+23308,Config157,Rinker Captiva 226 BR
+23309,Config158,Rinker Captiva 232 1997
+23310,Config158,Rinker Captiva 232 1997
+23311,Config158,Rinker Captiva 232 1997
+23312,Config159,Rinker Captiva 232 2005
+23313,Config159,Rinker Captiva 232 2005
+23314,Config159,Rinker Captiva 232 2005
+23315,Config160,Rinker Captiva 246 Bowrider
+23316,Config160,Rinker Captiva 246 Bowrider
+23317,Config160,Rinker Captiva 246 Bowrider
+23318,Config161,Rinker F34 Fiesta Vee
+23319,Config161,Rinker F34 Fiesta Vee
+23320,Config161,Rinker F34 Fiesta Vee
+23321,Config162,Sea Ray 185
+23322,Config162,Sea Ray 185
+23323,Config162,Sea Ray 185
+23324,Config163,Sea Ray 185 Sport 2008 - 2010
+23325,Config163,Sea Ray 185 Sport 2008 - 2010
+23326,Config163,Sea Ray 185 Sport 2008 - 2010
+23327,Config164,Sea Ray 190 Signature
+23328,Config164,Sea Ray 190 Signature
+23329,Config164,Sea Ray 190 Signature
+23330,Config165,Sea Ray 200 SD
+23331,Config165,Sea Ray 200 SD
+23332,Config165,Sea Ray 200 SD
+23333,Config166,Sea Ray 200/220 Select
+23334,Config166,Sea Ray 200/220 Select
+23335,Config166,Sea Ray 200/220 Select
+23336,Config167,Sea Ray 22 Sundeck
+23337,Config167,Sea Ray 22 Sundeck
+23338,Config167,Sea Ray 22 Sundeck
+23339,Config168,Sea Ray 225 Weekender
+23341,Config168,Sea Ray 225 Weekender
+23342,Config168,Sea Ray 225 Weekender
+23343,Config169,Sea Ray 230 BR
+23344,Config169,Sea Ray 230 BR
+23345,Config169,Sea Ray 230 BR
+23346,Config171,Sea Ray 240 SP 2005
+23347,Config171,Sea Ray 240 SP 2005
+23348,Config171,Sea Ray 240 SP 2005
+23349,Config172,Sea Ray 240 Sundeck 1997
+23350,Config172,Sea Ray 240 Sundeck 1997
+23351,Config172,Sea Ray 240 Sundeck 1997
+23352,Config173,Sea Ray 240 Sundeck 2006
+23353,Config173,Sea Ray 240 Sundeck 2006
+23354,Config173,Sea Ray 240 Sundeck 2006
+23355,Config170,Sea Ray 240 DA Sundancer 2006
+23356,Config170,Sea Ray 240 DA Sundancer 2006
+23357,Config170,Sea Ray 240 DA Sundancer 2006
+23358,Config174,Sea Ray 260 Sundancer
+23359,Config174,Sea Ray 260 Sundancer
+23360,Config174,Sea Ray 260 Sundancer
+23361,Config176,Sea Ray 270 Weekender
+23362,Config176,Sea Ray 270 Weekender
+23363,Config176,Sea Ray 270 Weekender
+23364,Config175,Sea Ray 270 SLX
+23365,Config175,Sea Ray 270 SLX
+23366,Config175,Sea Ray 270 SLX
+23367,Config177,Sea Ray 280 Sundancer
+23368,Config177,Sea Ray 280 Sundancer
+23369,Config177,Sea Ray 280 Sundancer
+23370,Config178,Sea Ray 310 Sundancer
+23371,Config178,Sea Ray 310 Sundancer
+23372,Config178,Sea Ray 310 Sundancer
+23373,Config18,Sea Ray 320
+23374,Config18,Sea Ray 320
+23376,Config179,Sea Ray 330 SD 1998
+23377,Config179,Sea Ray 330 SD 1998
+23378,Config179,Sea Ray 330 SD 1998
+23379,Config180,Sea Ray 330 Sundancer 1997
+23380,Config180,Sea Ray 330 Sundancer 1997
+23381,Config180,Sea Ray 330 Sundancer 1997
+23382,Config181,Sea Ray 340 Sundancer
+23383,Config181,Sea Ray 340 Sundancer
+23384,Config181,Sea Ray 340 Sundancer
+23385,Config182,Sea Ray 340 Sundancer - 2000
+23386,Config182,Sea Ray 340 Sundancer - 2000
+23387,Config182,Sea Ray 340 Sundancer - 2000
+23388,Config183,Sea Ray 350 Sundancer - 2010
+23389,Config183,Sea Ray 350 Sundancer - 2010
+23390,Config183,Sea Ray 350 Sundancer - 2010
+23391,Config184,Sea Ray 370 Sundancer
+23392,Config184,Sea Ray 370 Sundancer
+23393,Config184,Sea Ray 370 Sundancer
+23394,Config185,Sea Ray 380
+23395,Config185,Sea Ray 380
+23396,Config185,Sea Ray 380
+23397,Config186,Sea Ray Express Bridge
+23398,Config186,Sea Ray Express Bridge
+23399,Config186,Sea Ray Express Bridge
+23400,Config187,Sea Ray Ski Ray
+23401,Config187,Sea Ray Ski Ray
+23402,Config187,Sea Ray Ski Ray
+23403,Config188,SeaDoo Challenger 180
+23404,Config188,SeaDoo Challenger 180
+23405,Config188,SeaDoo Challenger 180
+23406,Config189,Ski Supreme
+23407,Config189,Ski Supreme
+23408,Config189,Ski Supreme
+23409,Config190,Starcraft 2210
+23410,Config190,Starcraft 2210
+23411,Config190,Starcraft 2210
+23412,Config191,Starcraft Nextstar 2010
+23413,Config191,Starcraft Nextstar 2010
+23414,Config191,Starcraft Nextstar 2010
+23415,Config192,Stingray 205 LR
+23416,Config192,Stingray 205 LR
+23417,Config192,Stingray 205 LR
+23418,Config193,Stingray 250 LR
+23419,Config193,Stingray 250 LR
+23420,Config193,Stingray 250 LR
+23421,Config194,Stingray 275 SLR
+23422,Config194,Stingray 275 SLR
+23423,Config194,Stingray 275 SLR
+23427,Config195,Supra 22 SSV
+23428,Config195,Supra 22 SSV
+23429,Config195,Supra 22 SSV
+23430,Config196,Supra 24 SSV
+23431,Config196,Supra 24 SSV
+23432,Config196,Supra 24 SSV
+23433,Config197,Supra Comp
+23434,Config197,Supra Comp
+23435,Config197,Supra Comp
+23436,Config198,Supra Early Model
+23437,Config198,Supra Early Model
+23438,Config198,Supra Early Model
+23439,Config199,Supra Gravity
+23443,Config199,Supra Gravity
+23444,Config199,Supra Gravity
+23445,Config200,Supra Launch 24 SSV
+23446,Config200,Supra Launch 24 SSV
+23447,Config200,Supra Launch 24 SSV
+23448,Config201,Supra Legacy
+23449,Config201,Supra Legacy
+23450,Config201,Supra Legacy
+23451,Config202,Supra LSSV
+23452,Config202,Supra LSSV
+23453,Config202,Supra LSSV
+23457,Config203,Supra Sunsport
+23458,Config203,Supra Sunsport
+23459,Config203,Supra Sunsport
+23460,Config204,Tahoe Q4
+23464,Config204,Tahoe Q4
+23465,Config204,Tahoe Q4
+23466,Config19,Tahoe Q6
+23467,Config19,Tahoe Q6
+23469,Config205,Tahoe Q7i
+23470,Config205,Tahoe Q7i
+23471,Config205,Tahoe Q7i
+23472,Config206,Tige 21V
+23473,Config206,Tige 21V
+23474,Config206,Tige 21V
+23475,Config207,Tige 22 VE
+23476,Config207,Tige 22 VE
+23477,Config207,Tige 22 VE
+23478,Config209,Tige Pre 2001
+23479,Config209,Tige Pre 2001
+23480,Config209,Tige Pre 2001
+23481,Config210,Tige RZ 2pc
+23482,Config210,Tige RZ 2pc
+23483,Config210,Tige RZ 2pc
+23487,Config208,Tige 221
+23488,Config208,Tige 221
+23489,Config208,Tige 221
+23490,Config212,Tige Z1
+23491,Config212,Tige Z1
+23492,Config212,Tige Z1
+23496,Config211,Tige RZ2
+23497,Config211,Tige RZ2
+23498,Config211,Tige RZ2
+23499,Config213,Tige Z3
+23500,Config213,Tige Z3
+23501,Config213,Tige Z3
+23502,Config215,VIP Vantage
+23503,Config215,VIP Vantage
+23504,Config215,VIP Vantage
+23505,Config216,Wellcraft Excalibur 26
+23506,Config216,Wellcraft Excalibur 26
+23507,Config216,Wellcraft Excalibur 26
+23508,Config217,Yamaha 242
+23509,Config217,Yamaha 242
+23510,Config217,Yamaha 242
+23511,Config218,Yamaha AR210 & 212X
+23512,Config218,Yamaha AR210 & 212X
+23513,Config218,Yamaha AR210 & 212X
+23514,Config219,Yamaha LS 2000
+23515,Config219,Yamaha LS 2000
+23516,Config219,Yamaha LS 2000
+23517,Config220,Yamaha SX230 - 2006 & Earlier
+23518,Config220,Yamaha SX230 - 2006 & Earlier
+23519,Config220,Yamaha SX230 - 2006 & Earlier
+23520,Config26,"""Yamaha SX230, SR230, AR230 - 2007"""
+23521,Config26,"""Yamaha SX230, SR230, AR230 - 2007"""
+23522,Config26,"""Yamaha SX230, SR230, AR230 - 2007"""

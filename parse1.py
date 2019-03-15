@@ -9,11 +9,11 @@ import panda
 import wcsv
 import datadump
 import product
+import config
 
 HEADER = ['sku', 'price', 'description']
 
-filename = path.dirname(path.abspath(__file__)) + '/product-kayak.csv'
-
+filename = config.PATH['product-kayak-csv']
 data = panda.get_file_data(filename, 'csv')
 
 skus = []
@@ -45,7 +45,6 @@ for i in data:
             no_exists_products.append(prod)
         else:
             products.append(prod)
-
 
 
 if len(products) > 0:
