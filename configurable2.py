@@ -7,7 +7,6 @@ import pandas as pd
 import numpy as np
 import datetime
 import config
-import re
 import wcsv
 
 filename = 'catalog_product_20190315_063059.csv'
